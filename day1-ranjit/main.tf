@@ -7,3 +7,7 @@
       name="ranjit"
     }
 }
+resource "aws_s3_bucket" "ranjit" {
+    bucket = "ranjit-bucket-sdfdf"
+
+}
