@@ -16,5 +16,5 @@ variable "key_name" {
 variable "availability_zone" {
     description = "inserting value for availability"
     type = string
-    default = "ap-south-1b"
+    default = "ap-south-1a"
 }
